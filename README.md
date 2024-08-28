@@ -3,7 +3,7 @@
 
 
  HEAD
-![gif](C:/Users/thiag/Downloads/head/img)
+![gif](C:/Users/thiag/Downloads/head)
 
 
 
